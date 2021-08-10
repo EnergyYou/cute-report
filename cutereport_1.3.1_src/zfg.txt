@@ -1,0 +1,6 @@
+
+分步编译
+1.编译 thirdparty 文件夹  生成 PropertyEditor.dll 及build\development\Qt4\plugins\debug\propertyeditor文件夹下文件
+2.编译 src\core  生成 CuteReportCore.dll
+3.编译src\widgets\widgets_thirdparty 生成 CuteReportWidgetsThirdparty.dll
+4.编译 src\widgets\widgets  生成  CuteReportWidgets.dll

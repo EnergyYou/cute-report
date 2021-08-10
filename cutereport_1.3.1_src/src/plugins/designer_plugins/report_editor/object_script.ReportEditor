@@ -1,0 +1,15 @@
+INPUT(
+./reportcontainer.o
+./reporteditor.o
+./reportproperties.o
+./parameterswidget.o
+./comboboxdelegate.o
+./parametersmodel.o
+./moc_reportcontainer.o
+./moc_reporteditor.o
+./moc_reportproperties.o
+./moc_parameterswidget.o
+./moc_comboboxdelegate.o
+./moc_parametersmodel.o
+./qrc_reporteditor.o
+);

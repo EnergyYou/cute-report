@@ -1,0 +1,12 @@
+INPUT(
+./fancytabs.o
+./stylehelper.o
+./objectinspector.o
+./objectmodel.o
+./qscriptsyntaxhighlighter.o
+./qscriptedit.o
+./moc_fancytabs.o
+./moc_objectinspector.o
+./moc_objectmodel.o
+./moc_qscriptedit_p.o
+);

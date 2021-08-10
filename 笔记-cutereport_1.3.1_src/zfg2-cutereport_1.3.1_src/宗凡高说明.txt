@@ -1,0 +1,4 @@
+例子程序见 build\development\examples\code 目录下
+  其中 zfg   zfg2是编译测试过的
+  zfg例子： 数据源是标准数据库
+  zfg2例子，数据源是基于Qt 中
